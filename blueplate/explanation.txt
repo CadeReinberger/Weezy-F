@@ -1,0 +1,1 @@
+All of this comes from NAQT Frequency lists, which I wrote a script using some OCR to handle a while ago. The information is secure, however, so I can't put it up on Github :(
